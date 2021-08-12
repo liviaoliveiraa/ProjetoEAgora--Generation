@@ -4,7 +4,7 @@
 <a align href = "#Sobre">Sobre</a> │
 <a align href = "#Objetivo">Objetivo</a> │
 <a align href = "#Tecnologias">Tecnologias</a> │
-<a align href = "#Autores">Autora</a>
+<a align href = "#Autores">Autores</a>
 </p>
 
 ---
